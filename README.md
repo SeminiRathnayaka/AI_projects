@@ -1,7 +1,7 @@
 # Medical Terms Explainer
 
 A Python-based AI mini project that explains medical terms in simple language.
-Built as part of my journey to create **Baymax for everyone**  a personal AI health assistant.
+Built as part of my journey to create **Baymax for everyone**   => a personal AI health assistant.
 
 - Projects Inside -
 
